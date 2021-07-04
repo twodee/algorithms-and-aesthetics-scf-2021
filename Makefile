@@ -15,7 +15,7 @@ MAINTEXFILE = main.tex
 RERUN = "(There were undefined references|Rerun to get (cross-references|the bars) right)"
 RERUNBIB = "No file.*\.bbl|Citation.*undefined" 
 
-PDFS_FROM_SVGS = generated/droplet.pdf generated/ray.pdf generated/button.pdf generated/crabfish.pdf generated/face.pdf generated/clover.pdf
+PDFS_FROM_SVGS = generated/ray.pdf generated/button.pdf generated/crabfish.pdf generated/face.pdf generated/clover.pdf
 PNGS_FROM_SVGS = generated/phone.png
 PNGFILES = $(wildcard images/*.png)
 PDFFILES = $(MAINTEXFILE:.tex=.pdf)

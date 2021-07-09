@@ -1,0 +1,9 @@
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" viewBox="-1 -2 21.5 20"><defs/><style>
+      .grid-line {
+        vector-effect: non-scaling-stroke;
+      }
+
+      text {
+        font-family: sans-serif;
+      }
+    </style><g id="main-group"><polygon id="element-0" fill="rgb(99, 148, 236)" fill-opacity="1" stroke-opacity="1" transform="" points="0,16 10,16 11,17 19,17 20,16 15.000000000000002,7.339745962155613 15.366025403784441,5.973720558371173 11.366025403784443,-0.9544826719043371 10.000000000000004,-1.3205080756887746 4.999999999999999,7.339745962155611 3.6339745962155607,7.705771365940048 -0.36602540378444326,14.633974596215557 -5.329070518200751e-15,15.999999999999996" class="cursor-selectable tag-0" visibility="visible"/><path id="element-1" fill-rule="evenodd" fill="none" fill-opacity="0" stroke="rgb(255, 0, 0)" stroke-opacity="1" stroke-width="0.05" transform="" d="M 10,16 L 15,7.3397459621556145 L 5,7.339745962155613 L 10,15.999999999999998 M 0,16 M 10,16 L 20,16 M 15.000000000000002,7.339745962155613 L 10.000000000000004,-1.3205080756887746 M 4.999999999999999,7.339745962155611 L -5.329070518200751e-15,15.999999999999996" class="cursor-selectable tag-1" visibility="visible"/></g></svg>

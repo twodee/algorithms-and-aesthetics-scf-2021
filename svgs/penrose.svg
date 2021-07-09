@@ -1,0 +1,9 @@
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 101 99"><defs/><style>
+      .grid-line {
+        vector-effect: non-scaling-stroke;
+      }
+
+      text {
+        font-family: sans-serif;
+      }
+    </style><g id="main-group"><polygon id="element-0" fill="rgb(0, 102, 229)" fill-opacity="1" stroke-opacity="1" transform="translate(7 -5) rotate(0 41 63)" points="27,87 32.5,70.5 68.8,63.1 22.2,14 36.1,9 92.9,71.2" class="cursor-selectable tag-0" visibility="visible"/><polygon id="element-1" fill="rgb(102, 102, 229)" fill-opacity="1" stroke-opacity="1" transform="translate(7 -5) rotate(-120 41 63)" points="27,87 32.5,70.5 68.8,63.1 22.2,14 36.1,9 92.9,71.2" class="cursor-selectable tag-1" visibility="visible"/><polygon id="element-2" fill="rgb(204, 102, 229)" fill-opacity="1" stroke-opacity="1" transform="translate(7 -5) rotate(-240 41 63)" points="27,87 32.5,70.5 68.8,63.1 22.2,14 36.1,9 92.9,71.2" class="cursor-selectable tag-2" visibility="visible"/></g></svg>

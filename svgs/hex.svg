@@ -1,0 +1,9 @@
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><defs/><style>
+      .grid-line {
+        vector-effect: non-scaling-stroke;
+      }
+
+      text {
+        font-family: sans-serif;
+      }
+    </style><g id="main-group"><path id="element-0" fill="rgb(255, 127, 0)" fill-opacity="1" stroke-opacity="1" transform="" d="M 2,20 L 8,20 Q 10,20 11.414213562373096,18.585786437626904 L 13.585786437626904,16.414213562373096 Q 15,15 16.414213562373096,13.585786437626904 L 18.585786437626904,11.414213562373096 Q 20,10 20,8 L 20,2 Q 20,0 18,0 L 12,0 Q 10,0 8.585786437626904,1.4142135623730958 L 6.414213562373095,3.585786437626904 Q 5,5 3.585786437626905,6.414213562373096 L 1.414213562373095,8.585786437626904 Q 0,10 0,12 L 0,18 Q 0,20 2,20 z" class="cursor-selectable tag-0" visibility="visible"/></g></svg>
